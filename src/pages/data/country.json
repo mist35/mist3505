@@ -1,0 +1,209 @@
+{
+    "북미":[
+        {
+            "country" : "미국"
+        },
+        {
+            "country" : "캐나다",
+            "language" : "English"
+        },
+        {
+            "country" : "캐나다",
+            "language" : "Français"
+        },
+        {
+            "country" : "멕시코"
+        }
+    ],
+    "유럽":[
+        {
+            "country" : "오스트리아",
+            "language" : "Deutsch"
+        },{
+            "country" : "오스트리아",
+            "language" : "English"
+        },{
+            "country" : "벨기에",
+            "language" : "English"
+        },{
+            "country" : "벨기에",
+            "language" : "Français"
+        },{
+            "country" : "체코"
+        },{
+            "country" : "덴마크"
+        },{
+            "country" : "프랑스",
+            "language" : "Français"
+        },{
+            "country" : "프랑스",
+            "language" : "English"
+        },{
+            "country" : "독일",
+            "language" : "Deutsch"
+        },{
+            "country" : "독일",
+            "language" : "English"
+        },{
+            "country" : "에스토니아"
+        },{
+            "country" : "그리스"
+        },{
+            "country" : "헝가리"
+        },{
+            "country" : "아일랜드"
+        },{
+            "country" : "이탈리아",
+            "language" : "Italiano"
+        },{
+            "country" : "이탈리아",
+            "language" : "English"
+        },{
+            "country" : "리투아니아"
+        },{
+            "country" : "리히텐슈타인"
+        },{
+            "country" : "라트비아"
+        },{
+            "country" : "네덜란드",
+            "language" : "Nederlands"
+        },{
+            "country" : "네덜란드",
+            "language" : "English"
+        },{
+            "country" : "노르웨이"
+        },{
+            "country" : "폴란드",
+            "language" : "Polish"
+        },{
+            "country" : "폴란드",
+            "language" : "English"
+        },{
+            "country" : "루마니아"
+        },{
+            "country" : "세르비아"
+        },{
+            "country" : "슬로바키아"
+        },{
+            "country" : "슬로베니아"
+        },{
+            "country" : "스페인",
+            "language" : "Español"
+        },{
+            "country" : "스페인",
+            "language" : "English"
+        },{
+            "country" : "네덜란드",
+            "language" : "English"
+        },{
+            "country" : "스웨덴"
+        },{
+            "country" : "네덜란드",
+            "language" : "English"
+        },{
+            "country" : "스위스",
+            "language" : "Deutsch"
+        },{
+            "country" : "스위스",
+            "language" : "Français"
+        },{
+            "country" : "스위스",
+            "language" : "Italian"
+        },{
+            "country" : "스위스",
+            "language" : "English"
+        },{
+            "country" : "터키"
+        },{
+            "country" : "영국"
+        }
+    ],
+    "아프리카" : [
+        {
+            "country" : "남아프리카"
+        }
+    ],
+    "중앙 및 남아메리카" : [
+        {
+            "country" : "아르헨티나"
+        },{
+            "country" : "브라질"
+        },{
+            "country" : "칠레"
+        },{
+            "country" : "콜롬비아"
+        },{
+            "country" : "우루과이"
+        }
+    ],
+    "아시아": [
+        {
+            "country": "중국"
+        },
+        {
+            "country": "홍콩",
+            "language": "English"
+        },
+        {
+            "country": "홍콩",
+            "language": "中文"
+        },
+        {
+            "country": "인도"
+        },
+        {
+            "country": "인도네시아",
+            "language": "English"
+        },
+        {
+            "country": "일본"
+        },
+        {
+            "country": "말레이시아"
+        },
+        {
+            "country": "필리핀"
+        },
+        {
+            "country": "싱가포르"
+        },
+        {
+            "country": "대한민국"
+        },
+        {
+            "country": "타이완"
+        },
+        {
+            "country": "태국",
+            "language": "English"
+        },
+        {
+            "country": "태국",
+            "language": "ภาษาไทย"
+        },
+        {
+            "country": "베트남",
+            "language": "English"
+        },
+        {
+            "country": "베트남",
+            "language": "Tiếng việt"
+        }
+    ],
+    "중동": [
+        {
+            "country": "사우디아라비아"
+        },
+        {
+            "country": "아랍에미리트"
+        }
+    ],
+    "호주/오세아니아": [
+        {
+            "country": "호주"
+        },
+        {
+            "country": "뉴질랜드"
+        }
+    ] 
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "imgSrc": "src/assets/main11.png",
+        "imgAlt": "남성 러닝화",
+        "title": "남성",
+        "link": "/pages/men",
+        "linkText" : "구매하기",
+        "position": "flex-start"
+    },
+    {
+        "id": "2",
+        "imgSrc": "src/assets/main22.png",
+        "imgAlt": "여성 러닝화",
+        "title": "여성",
+        "link": "/pages/women",
+        "linkText" : "구매하기",
+        "position": "flex-start"
+    },
+    {
+        "id": "3",
+        "imgSrc": "src/assets/main33.png",
+        "imgAlt": "신발",
+        "title": "신발",
+        "link": "/pages/shoes",
+        "linkText" : "구매하기",
+        "position": "flex-end"
+    },
+    {   
+        "id": "4",
+        "imgSrc": "src/assets/main44.png",
+        "imgAlt": "의류",
+        "title": "악세사리",
+        "link": "/pages/clothes",
+        "linkText" : "구매하기",
+        "position":  "flex-end"
+    }
+]

@@ -1,0 +1,37 @@
+.country{
+    max-width: 1280px;
+    padding: 100px 0;
+    margin: 0 auto;
+    h2{
+        text-align: center;
+        font-size: 64px;
+        font-weight: 500;
+    }
+    p.sub{
+        text-align: center;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    section{
+        padding: 80px 0;
+        h3{
+            font-size: 48px;
+            font-weight: 500;
+        }
+        .countrywrap{
+            padding: 50px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 50px;
+            .box{
+                border: 1px solid #757575;
+                border-radius: 15px;
+                padding: 18px 20px;
+                display: flex;
+                align-items: center;
+                min-width: 280px;
+                box-sizing: border-box;
+            }
+        }
+    }
+}

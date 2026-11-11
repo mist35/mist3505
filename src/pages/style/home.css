@@ -1,0 +1,59 @@
+.sec1{
+    width: 100%;
+    .top{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 50px 0;
+    }
+    .middle_img{
+        width: 100%;
+        img{
+            width: 100%;
+        }
+    }
+    .bottom{
+        padding: 50px 0;
+        text-align: center;
+        h2{
+            font-size: 64px;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+        p{
+            font-size: 40px;
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+        .btns{
+            display: flex;
+            justify-content: center;
+            gap: 8%;
+        }
+    }
+}
+.bnrImg{
+    width: 100%;
+    img{
+        width: 100%;
+    }
+}
+#main>.sec2{
+    padding: 100px;
+    h2{
+       font-size: 48px;
+       font-weight: 700; 
+       text-align: center;
+    }
+    p{
+        font-size: 28px;
+        text-align: center;
+    }
+    article{
+        padding-top: 50px;
+        width: 100%;
+        display: grid;
+        gap: 40px;
+        grid-template-columns: auto auto;
+    }
+}

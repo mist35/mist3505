@@ -1,0 +1,14 @@
+#sports{
+    .sec2{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        row-gap: 40px;
+        .titletext{
+            h2{
+                font-size: 64px;
+                text-align: center;
+                font-weight: 900;
+            }
+        }
+    }
+}

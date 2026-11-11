@@ -1,0 +1,66 @@
+[
+    {
+        "id" : 1,
+        "shoesWImg" :"/man1.png",
+        "shoesAlt" : "UA 벨로시티 디스턴스 스톰 이미지",
+        "price" : 219000 ,
+        "title" : "UA 벨로시티 디스턴스 스톰",
+        "prodectType" : "유니섹스 러닝화"
+    },{
+        "id" : 2,
+        "shoesWImg" :"/man2.png",
+        "shoesAlt" : "UA HB 러너 2 이미지",
+        "price" : 179000 ,
+        "title" : "UA HB 러너 2", 
+        "prodectType" : "남성 러닝화"
+    },{
+        "id" : 3,
+        "shoesWImg" :"/man3.png",
+        "shoesAlt" : "UA HB 레이서 2 이미지",
+        "price" : 1229000 ,
+        "title" : "UA HB 레이서 2", 
+        "prodectType" : "남성 러닝화"
+    },{
+        "id" : 4,
+        "shoesWImg" :"/man4.png",
+        "shoesAlt" : "UA 벨로시티 엘리트 3 '샤론 로케디' PE 이미지",
+        "price" : 299000 ,
+        "title" : "UA 벨로시티 엘리트 3 '샤론 로케디' PE", 
+        "prodectType" : "유니섹스 러닝화"
+    },{
+        "id" : 5,
+        "shoesWImg" :"/man5.png",
+        "shoesAlt" : "UA Charged+ 어서트 11",
+        "price" : 99000 ,
+        "title" : "UA Charged+ 어서트 11", 
+        "prodectType" : "남성 러닝화"
+    },{
+        "id" : 6,
+        "shoesWImg" :"/man6.png",
+        "shoesAlt" : "UA Charged+ 어센드",
+        "price" : 89000 ,
+        "title" : "UA Charged+ 어센드", 
+        "prodectType" : "남성 러닝화"
+    },{
+        "id" : 7,
+        "shoesWImg" :"/man7.png",
+        "shoesAlt" : "UA W 차지드 로그 5 SE",
+        "price" : 119000 ,
+        "title" : "UA W 차지드 로그 5 SE", 
+        "prodectType" : "남성 러닝화"
+    },{
+        "id" : 8,
+        "shoesWImg" :"/man8.png",
+        "shoesAlt" : "UA Charged+ 로그 6",
+        "price" : 129000 ,
+        "title" : "UA Charged+ 로그 6", 
+        "prodectType" : "남성 러닝화"
+    },{
+        "id" : 9,
+        "shoesWImg" :"/man9.png",
+        "shoesAlt" : "UA 페이드 RN 4",
+        "price" : 109000 ,
+        "title" : "UA 페이드 RN 4", 
+        "prodectType" : "남성 러닝화"
+    }
+] 

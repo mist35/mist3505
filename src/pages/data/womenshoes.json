@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "shoes": "src/assets/girl1.png",
+        "ex": "UA 벨로시티 디스턴스 스톰 이미지",
+        "price": 219000,
+        "title": "img",
+        "product": "유니섹스 러닝화"
+    },{
+        "id": 2,
+        "shoes": "src/assets/girl2.png",
+        "ex": "UA HB 러너 2 이미지",
+        "price": 179000,
+        "title": "img",
+        "product": "여성 러닝화"
+    },{
+        "id": 3,
+        "shoes": "src/assets/girl3.png",
+        "ex": "UA HB 레이서 2 이미지",
+        "price": 1229000,
+        "title": "img",
+        "product": "여성 러닝화"
+    },{
+        "id": 4,
+        "shoes": "src/assets/girl4.png",
+        "ex": "UA 벨로시티 엘리트 3 '샤론 로케디' PE 이미지",
+        "price": 299000,
+        "title": "img",
+        "product": "유니섹스 러닝화"
+    },{
+        "id": 5,
+        "shoes": "src/assets/girl5.png",
+        "ex": "UA Charged+ 어서트 11",
+        "price": 99000,
+        "title": "img",
+        "product": "여성 러닝화"
+    },{
+        "id": 6,
+        "shoes": "src/assets/girl6.png",
+        "ex": "UA 벨로시티 어센드",
+        "price": 89000,
+        "title": "img",
+        "product": "여성 러닝화"
+    },{
+        "id": 7,
+        "shoes": "src/assets/girl7.png",
+        "ex": "UA W 차지드 로그 5 SE",
+        "price": 119000,
+        "title": "img",
+        "product": "여성 러닝화"
+    },{
+        "id": 8,
+        "shoes": "src/assets/girl8.png",
+        "ex": "UA 페이드 RN 4",
+        "price": 109000,
+        "title": "img",
+        "product": "여성 러닝화"
+    },{
+        "id": 9,
+        "shoes": "src/assets/girl9.png",
+        "ex": "UA 페이드 RN 4",
+        "price": 109000,
+        "title": "img",
+        "product": "여성 러닝화"
+    }
+]

@@ -1,0 +1,98 @@
+footer{
+    height: 640px;
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+    padding: 120px 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .footer_wrap{
+        display: flex;
+        justify-content: space-between;
+        gap: 12%;
+        color: #707072;
+        button{
+                border: none;
+                background-color: transparent;
+                border-bottom: 1px solid #000;
+                color: #000;
+                font-size: 12px;
+                font-weight: 500;
+            }
+        a{
+            color: #707072;
+            white-space: nowrap;
+            text-decoration: none;
+        }
+        .signUp{
+            min-width: 200px; 
+            .title{
+                font-size: 12px;
+                font-weight: 700;
+                margin-bottom: 20px;
+            }
+            
+            .option{
+                margin-top: 20px;
+                color: #757575;
+                font-size: 12px;
+                button{
+                    font-size: 12px;
+                    color: #757575;
+                }
+            }
+            .payment{
+                margin-top: 20px;
+                font-size: 12px; 
+                color: #000;               
+            }
+        }
+        h3{
+            font-size: 12px;
+            font-weight: 500;
+            margin-bottom: 30px;
+            color: #000;
+            a{
+                color: #000;                
+                font-weight: 500;
+            }
+        }
+        p{
+            color: #707072;
+            font-size: 12px;
+        }
+        li{
+            color: #707072;
+            font-size: 12px;
+            margin-bottom: 15px;            
+            white-space: nowrap;
+        }
+        span{
+            display: block;
+        }
+        
+    }
+    .footer_info{
+        color: #585858;
+        font-size: 12px;
+        ul{
+            display: flex;
+        
+            li{
+                line-height: 1.5;
+                a{
+                color: #707072;
+                font-size: 12px;
+                }
+            }
+            ::after{
+                content: "|";
+                color: #707072;
+                margin: 0 3px;
+            }
+            :last-child::after{
+                content: "";
+            }
+        }
+    }
+}

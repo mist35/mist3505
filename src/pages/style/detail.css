@@ -1,0 +1,116 @@
+.detail{
+    display: flex;
+    padding: 100px 80px;
+    gap: 30px;
+    .imgwrap{
+        width: 700px;
+        img{
+            width: 100%;
+        }
+    }
+    section{
+        h2{
+            font-size: 40px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+        p{
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+        h3{
+            font-size: 24px;
+            font-weight: 500;
+            margin-bottom: 20px;
+        }
+        ul.type{
+            display: flex;
+            gap: 30px;
+            li{
+                width: 141px;
+                height: 120px;
+                position: relative;
+                overflow: hidden;
+                img{
+                    position: absolute;
+                    width: 100%;
+                    top: 50%;
+                    transform: translate(0, -50%);
+                }
+            }
+        }
+        .shoessize{
+            padding: 50px 0;
+            h4{
+                font-size: 36px;
+                font-weight: 500;
+            }
+            .sizelists>.sizeselect{
+                display: flex;
+                gap: 10px;
+                flex-wrap: wrap;
+                padding: 50px 0;
+                button{
+                    padding: 5px 10px;
+                    background-color: #fdfdfd;
+                    border: 1px solid #333;
+                    border-radius: 3px;
+                    font-size: 18px;
+                }
+            }
+            button{
+                margin-bottom: 30px;
+                display: block;
+            }
+        }
+        .info{
+            h3{
+                font-size: 36px;
+                font-weight: 600;
+            }
+            p{
+                font-size: 36px;
+                font-weight: 400;
+            }
+            div{
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-end;
+                border-bottom: 1px solid black;
+                padding: 30px;
+                margin-bottom: 30px;
+                h4{
+                    flex: 1;
+                    font-size: 48px;
+                    font-weight: 600;
+                }
+                span{
+                    font-size: 50px;
+                    font-weight: 200;
+                    padding: 0 20px;
+                }
+            }
+            .review{
+                    ul{
+                        display: flex;
+                        height: 50px;
+                        margin-bottom: 20px;
+                        li{
+                            width: 50px;
+                            img{
+                                width: 100%;
+                            }
+                        }
+                    }
+            }
+            .info{
+                flex-direction: column;
+                align-items: flex-start;
+                p{
+                    font-size: 28px;
+                }
+            }
+        }
+    }
+}

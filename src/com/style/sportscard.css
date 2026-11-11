@@ -1,0 +1,23 @@
+.sportscard{
+    width: 100%;
+    position: relative;
+    img{
+        width: 100%;
+    }
+    .cardtext{
+        position: absolute;
+        left: 80px;
+        bottom: 80px;
+        h2>a{
+            font-size: 96px;
+            font-weight: 700;
+            color: white;
+        }
+        h3>a{
+            font-size: 24px;
+            font-weight: 600;
+            color: white;
+            text-decoration: none;
+        }
+    }
+}
